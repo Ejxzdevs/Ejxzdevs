@@ -1,4 +1,4 @@
-Hi 👋 My name is Ejhay Gofredo
+Hi 👋 My name is Ejhay Pardillo
 ==============================
 
 Web Developer
